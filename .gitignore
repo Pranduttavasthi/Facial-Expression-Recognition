@@ -1,0 +1,6 @@
+*.pth
+*.csv
+*.zip
+datasets/
+Models/
+venv/
